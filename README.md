@@ -11,7 +11,7 @@ Build a create a command-line application that dynamically generates a professio
 ```
 ---
 
-### ** Application Acceptance Criteria:**
+### **Application Acceptance Criteria:**
 ![Image of Project](./assets/images/mockup9.png)
 
 ### **Mock up:**
