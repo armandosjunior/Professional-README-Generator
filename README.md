@@ -1,4 +1,4 @@
-# Professional README Generator
+# Professional README Generator :open_file_folder:
 
 Build a create a command-line application that dynamically generates a professional README.md file from user's input.
 
